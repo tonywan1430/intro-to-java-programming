@@ -14,7 +14,14 @@ Here are the links and title of sepcification of 10 assignments (and the title):
 
 - Homework 5: [Functions](https://coursera.cs.princeton.edu/introcs/assignments/functions/specification.php)
 
-- Homework 6
+- Homework 6: [Recursion](https://coursera.cs.princeton.edu/introcs/assignments/recursion/specification.php)
 
+- Homework 7: [Performance](https://coursera.cs.princeton.edu/introcs/assignments/performance/specification.php)
+
+- Homework 8: [Using Data Types](https://coursera.cs.princeton.edu/introcs/assignments/oop1/specification.php)
+
+- Homework 9: [Creating Data Types](https://coursera.cs.princeton.edu/introcs/assignments/oop2/specification.php)
+
+- Homework 10: [Bar Chart Racing](https://coursera.cs.princeton.edu/introcs/assignments/barchart/specification.php)
 
 
