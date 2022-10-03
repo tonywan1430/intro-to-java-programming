@@ -2,7 +2,7 @@
 
 This repository contains coding assignments of [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) from Princeton on Coursera.
 
-Here are the links and title of sepcification of 10 assignments (and the title):
+Here are the links and title of sepcification of 10 assignments:
 
 - Homework 1 : [Hello World](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php)
 
